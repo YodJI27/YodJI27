@@ -1,7 +1,7 @@
 ## Привет всем 👋 Меня зовут Илья
 
 ### Мой стэк
-<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> <img width="32" height="32" src="file:///C:/Users/Leo27/Downloads/react.svg">
+<img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"> <img width="32" height="32" src="https://simpleicons.org/icons/html5.svg">
 
 ### Контакты
 Email: shnyrev.iilya@yandex.ru   
