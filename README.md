@@ -1,8 +1,7 @@
 ## Привет всем 👋 Меня зовут Илья
 
-### Мой стэк
-<img width="50" height="50" src="https://simpleicons.org/icons/visualstudiocode.svg">
-<img width="50" height="50" src="https://simpleicons.org/icons/html5.svg">
+### Мой стэк  
+<img width="50" height="50" src="https://simpleicons.org/icons/visualstudiocode.svg">  <img width="50" height="50" src="https://simpleicons.org/icons/html5.svg">
 <img width="50" height="50" src="https://simpleicons.org/icons/css3.svg">
 <img width="50" height="50" src="https://simpleicons.org/icons/javascript.svg">
 <img width="50" height="50" src="https://simpleicons.org/icons/react.svg">
