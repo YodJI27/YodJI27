@@ -10,3 +10,7 @@
 ***<img src="https://simpleicons.org/icons/vk.svg" width="20" height="20">  https://vk.com/shnerov***  
 ***<img src="https://simpleicons.org/icons/habr.svg" width="20" height="20">  https://career.habr.com/yodji27***  
 ***<img src="https://simpleicons.org/icons/telegram.svg" width="20" height="20">  YodJI27***  
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yodji27)](https://github.com/anuraghazra/github-readme-stats)
