@@ -2,7 +2,7 @@
 
 ## Мой стэк
 
-### ***HTML5 | CSS3 | JS | REACT | NODE.JS | EXPRESS.JS***
+### ***HTML5 | CSS3 | JS | REACT.JS | NODE.JS | EXPRESS.JS | DOM | БЭМ***
 
 ### Контакты
 <img src="https://www.pngrepo.com/png/285/170/email.png" width="20" height="20">  shnyrev.iilya@yandex.ru   
