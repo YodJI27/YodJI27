@@ -2,7 +2,7 @@
 
 ## Мой стэк
 
-### ***HTML5 | CSS3 | JS ES6 | REACT.JS | NODE.JS | EXPRESS.JS | WEBPACK | DOM | БЭМ | GIT | MongoDB***
+### ***HTML5 | CSS3 | JS ES6 | REACT.JS | REDUX | NODE.JS | EXPRESS.JS | WEBPACK | DOM | БЭМ | GIT | MongoDB***
 
 
 ## Контакты
