@@ -2,7 +2,7 @@
 
 ## Мой стэк
 
-### ***HTML5 | CSS3 | JS ES6+ | REACT.JS | REDUX ( RTK ) | NODE.JS | EXPRESS.JS | Material UI | Styled Components | WEBPACK | GIT***
+### ***HTML5 | CSS3 | JS ES6+ | REACT.JS | REDUX ( RTK ) | NODE.JS | EXPRESS.JS | MATERIAL UI | STYLED COMPONENTS | WEBPACK | GIT***
 
 
 ## Контакты
